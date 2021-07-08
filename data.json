@@ -2,6 +2,6 @@
   {
     date: new Date(2021, 2, 12),
     title: 'Car Insurance',
-    amount: '1200',
+    amount: '1200'
   }
 ]
